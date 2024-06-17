@@ -1,7 +1,7 @@
 # Regions for Health - WHO
 
 Regions for Health collaboration methods
-## Step 0 - Load data
+# Step 0 - Load data
 
 # Step 1 - Scale variables
 ## Make numeric and standardize variables Mean is 0 with standard deviation 1.
