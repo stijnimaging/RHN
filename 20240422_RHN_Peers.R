@@ -17,7 +17,7 @@ library(klaR)
 library(ggrepel)
 
 # Set you LOCAL working directory - the folder where the Excel workbook 20231130_RHN Peer_Regions_indicators.xlsx is located
-setwd('//GZLFS001/home$/stijn.michielse/Documents/RHN_WHO')
+setwd('//Set/Your/Own/Working/Directory/RHN_WHO')
 
 # Step 0 - Load data ----
 NL_data <- read.xlsx("20231130_RHN Peer_Regions_indicators.xlsx",'Netherlands')
