@@ -18,7 +18,7 @@ library(ggrepel)
 library(flextable)
 rm(list = ls())
 # Set you LOCAL working directory - the folder where the Excel workbook 20231130_RHN Peer_Regions_indicators.xlsx is located
-setwd('//GZLFS001/home$/stijn.michielse/Documents/RHN_WHO')
+setwd('//path/to/workingdirectory/')
 
 # Step 0 - Load data ----
 NL_data <- openxlsx::read.xlsx("20231130_RHN Peer_Regions_indicators.xlsx",'Netherlands')
